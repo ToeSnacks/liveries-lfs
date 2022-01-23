@@ -13,7 +13,7 @@ livery = {
 	{"pilot_F18_helmet", 0, "DeathaKiss_18_helmet", false};
 	
 	--Fuel Tanks
-	{"FPU_8A", 0 ,"../VFA-151 301/FPU_8A",false};
+	{"FPU_8A", 0 ,"../VFA-151 Line/COXO_FPU_8A",false};
 	{"FPU_8A", ROUGHNESS_METALLIC ,"FPU_8A_Diff_RoughMet",true};
 	
 	--Stay / Covers

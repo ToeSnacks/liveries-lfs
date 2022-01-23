@@ -13,7 +13,7 @@ livery = {
 	{"pilot_F18_helmet", 0, "../VFA-151 Line/PILOT_F18_HELMET_VFA_DEFAULT", false};
 	
 	--Fuel Tanks
-	{"FPU_8A", 0 ,"../VFA-151 301/FPU_8A",false};
+	{"FPU_8A", 0 ,"../VFA-151 Line/FPU_8A",false};
 	{"FPU_8A", ROUGHNESS_METALLIC ,"FPU_8A_Diff_RoughMet",true};
 	
 	--Stay / Covers
@@ -202,6 +202,6 @@ livery = {
 	{"F18C_BORT_NUMBER_MTW_aus_L_01", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
 	{"F18C_BORT_NUMBER_MTW_aus_L_01", DECAL ,"empty",true};	
 }
-name = "VFA-151 Vigilantes 307"
-countries = {"USA",}
+name = "VFA-151 - 307 - Astro"
+countries = {"USA", "RUS", "FRA", "UKR", "SPN", "NETH", "TUR", "BEL", "GER", "NOR", "CAN", "DEN", "UK", "GRG", "ISR", "ABH", "RSO"}
 --By SkateZilla Graphics Studios 2018 (05.25.2018)
