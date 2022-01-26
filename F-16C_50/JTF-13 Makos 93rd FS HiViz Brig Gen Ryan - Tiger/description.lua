@@ -1,9 +1,9 @@
 livery = {
 	
-	{"F16_bl50_wing_L", 0, "F16_bl50_wing_L_CO_93", false};
+	{"F16_bl50_wing_L", 0, "../JTF-13 Makos 93rd FS Blue Hi-Viz/F16_bl50_wing_L_CO_93", false};
 	{"F16_bl50_wing_L", ROUGHNESS_METALLIC, "../JTF-13 Makos 93rd FS Blue Hi-Viz/F16_bl50_wing_L_RoughMet", false};
 	
-	{"F16_bl50_wing_R", 0, "F16_bl50_wing_R_CO_93", false};
+	{"F16_bl50_wing_R", 0, "../JTF-13 Makos 93rd FS Blue Hi-Viz/F16_bl50_wing_R_CO_93", false};
 	{"F16_bl50_wing_R", ROUGHNESS_METALLIC, "../JTF-13 Makos 93rd FS Blue Hi-Viz/F16_bl50_wing_L_RoughMet", false};
 	
 	{"F16_bl50_Main_1", 0, "F16_bl50_Main_1_93FS_Jpow", false};
@@ -139,7 +139,7 @@ livery = {
 }
 
 
-name = "JTF-13 HiViz 93rd FS Brig Gen Bryan - Flash"
+name = "JTF-13 HiViz 93rd FS Brig Gen Ryan - Tiger"
 
 custom_args = 
 {
@@ -152,5 +152,5 @@ custom_args =
 
 
 --Skin By xCorvinuSx Edited Force | JTF 13 Des/2019
---Edited by Bryan "Flash" Akula 1-4 | JTF 13 June/2020
+--Edited by Bryan "Flash" Akula 1-4 | JTF 13 Jan/2022
 

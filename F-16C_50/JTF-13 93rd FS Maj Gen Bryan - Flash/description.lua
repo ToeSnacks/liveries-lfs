@@ -121,9 +121,9 @@ livery = {
 }
 
 
-name = "JTF-13 93rd FS - Brig Gen Bryan - Flash"
+name = "JTF-13 93rd FS - Maj Gen Bryan - Flash"
 --Skin By xCorvinuSx Oct/2019
---Edited By Bryan "Flash" Nov/2020
+--Edited By Bryan "Flash" Jan/2022
 
 custom_args = 
 {

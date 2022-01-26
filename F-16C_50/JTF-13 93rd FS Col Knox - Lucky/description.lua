@@ -1,33 +1,30 @@
 livery = {
 	
-	{"F16_bl50_wing_L", 0, "../482nd FW IP Textures/F16_482th_Wing_L", false};
-	{"F16_bl50_wing_L", ROUGHNESS_METALLIC, "../482nd FW IP Textures/F16_bl50_wing_L_RoughMet", false};
+	{"F16_bl50_wing_L", 0, "../JTF-13 93rd FS - Makos Textures/F16_482th_Wing_L", false};
+	{"F16_bl50_wing_L", ROUGHNESS_METALLIC, "../JTF-13 93rd FS - Makos Textures/F16_bl50_wing_R_RoughMet", false};
 
-	{"F16_bl50_wing_R", 0, "../482nd FW IP Textures/F16_482th_Wing_R", false};
-	{"F16_bl50_wing_R", ROUGHNESS_METALLIC, "../482nd FW IP Textures/F16_bl50_wing_L_RoughMet", false};
+	{"F16_bl50_wing_R", 0, "../JTF-13 93rd FS - Makos Textures/F16_482th_Wing_R", false};
+	{"F16_bl50_wing_R", ROUGHNESS_METALLIC, "../JTF-13 93rd FS - Makos Textures/F16_bl50_wing_R_RoughMet", false};
 	
 	{"F16_bl50_Main_1", 0, "F16_482th_1", false};
-	{"F16_bl50_Main_1", ROUGHNESS_METALLIC, "../482nd FW IP Textures/f16_bl50_main_1_roughmet", false};
+	{"F16_bl50_Main_1", ROUGHNESS_METALLIC, "../JTF-13 93rd FS - Makos Textures/f16_bl50_main_1_roughmet", false};
 	
-	{"F16_bl50_Main_2", 0, "../482nd FW IP Textures/F16_482th_2", false};
-	{"F16_bl50_Main_2", ROUGHNESS_METALLIC, "../482nd FW IP Textures/F16_bl50_Main_2_RoughMet", false};
+	{"F16_bl50_Main_2", 0, "../JTF-13 93rd FS - Makos Textures/F16_482th_2", false};
+	{"F16_bl50_Main_2", ROUGHNESS_METALLIC, "../JTF-13 93rd FS - Makos Textures/F16_bl50_Main_2_RoughMet", false};
 	
-	{"F16_bl50_Main_3", 0, "../482nd FW IP Textures/F16_482th_3", false};
+	{"F16_bl50_Main_3", 0, "../JTF-13 93rd FS - Makos Textures/F16_482th_3", false};
 	{"F16_bl50_Main_3", ROUGHNESS_METALLIC, "../JTF-13 93rd FS - Makos Textures/F16_bl50_Main_3_RoughMet", false};
 	
-	{"F16_bl50_Kil", 0, "../482nd FW IP Textures/F16_482th_Kil", false};
-	{"F16_bl50_Kil", ROUGHNESS_METALLIC, "../482nd FW IP Textures/F16_bl50_Kil_RoughMet", false};
+	{"F16_bl50_Kil", 0, "../JTF-13 93rd FS - Makos Textures/F16_482th_Kil", false};
+	{"F16_bl50_Kil", ROUGHNESS_METALLIC, "../JTF-13 93rd FS - Makos Textures/F16_bl50_Kil_RoughMet", false};
 	
-	{"Tank_370", DIFFUSE, "../482nd FW IP Textures/fuel_tank_370gal", false};
-	{"Tank_370", ROUGHNESS_METALLIC, "../482nd FW IP Textures/fuel_tank_370gal_diff_RoughMet", false};
-	
-	{"PTB_300Gal", 0, "../482nd FW IP Textures/fuel_tank_300gal", false};
+--	{"Tank_370", 0, "fuel_tank_370gal", false};
 
-	{"F16_bl50_GLASS", 0, "../482nd FW IP Textures/F16_Glass", false};
+	{"F16_bl50_GLASS", 0, "../JTF-13 93rd FS - Makos Textures/F16_Glass", false};
 	{"F16_bl50_GLASS", NORMAL_MAP, "F16_bl50_Glass_Normal", false};
-	{"F16_bl50_GLASS", ROUGHNESS_METALLIC, "../482nd FW IP Textures/F16_bl50_Glass_RoughMet", false};
+	{"F16_bl50_GLASS", ROUGHNESS_METALLIC, "../JTF-13 93rd FS - Makos Textures/F16_bl50_Glass_RoughMet", false};
 
-	{"LAU_129", DIFFUSE, "../482nd FW IP Textures/LAU_129", false};
+	{"LAU_129", DIFFUSE, "../JTF-13 93rd FS - Makos Textures/LAU_129", false};
 	{"LAU_129", NORMAL_MAP, "lau_129_nm", true};
 	{"LAU_129", ROUGHNESS_METALLIC, "lau_129_diff_roughmet", true};
 	
@@ -43,15 +40,12 @@ livery = {
 	{"pilot_F16_patch", NORMAL_MAP, "empty", false};
 	{"pilot_F16_patch", ROUGHNESS_METALLIC, "empty", false};
 	
-	{"pilot_F16", 0, "../JTF-13 Makos 93rd FS Blue Hi-Viz/Pilot_F16_COL_Jpow", false};
-	{"pilot_F16", NORMAL_MAP, "../JTF-13 Makos 93rd FS Blue Hi-Viz/pilot_f16_nm", true};
-	{"pilot_F16", ROUGHNESS_METALLIC, "../JTF-13 Makos 93rd FS Blue Hi-Viz/pilot_f16_roughmet", true};
+	{"pilot_F16", 0, "../JTF-13 93rd FS - Makos Textures/Pilot_F16_482th", false};
+	{"pilot_F16", NORMAL_MAP, "pilot_f16_nm", true};
+	{"pilot_F16", ROUGHNESS_METALLIC, "../JTF-13 93rd FS - Makos Textures/pilot_f16_roughmet", true};
 	
-	{"F16_bl50_Wing_Pylon_1", 0, "../482nd FW IP Textures/F16_Wing_Pylon1", false};
-	{"F16_bl50_Wing_Pylon_2", 0, "../482nd FW IP Textures/F16_Wing_Pylon2", false};
-	
-	{"pilot_F16_helmet", 0 ,"pilot_F16_helmet",false};
-	{"pilot_F16_helmet", ROUGHNESS_METALLIC ,"../482nd FW IP Textures/pilot_F16_helmet_roughmet",false};
+	{"pilot_F16_helmet", 0 ,"../JTF-13 93rd FS - Makos Textures/pilot_F16_helmet",false};
+	{"pilot_F16_helmet", ROUGHNESS_METALLIC ,"../JTF-13 93rd FS - Makos Textures/pilot_F16_helmet_roughmet",false};
 	
 	
 	--F16_bl50_NOUSE_1_DECAL--
@@ -130,9 +124,9 @@ livery = {
 }
 
 
-name = "482nd FW IP Brig Gen Bryan - Flash"
+name = "JTF-13 93rd FS - Col Knox - Lucky"
 --Skin By xCorvinuSx Oct/2019
---Edited By Bryan "Flash" June/2020, Aug/2021
+--Edited By Bryan "Flash" Jan/2022
 
 custom_args = 
 {

@@ -28,12 +28,6 @@ livery = {
 	{"LAU_129", NORMAL_MAP, "lau_129_nm", true};
 	{"LAU_129", ROUGHNESS_METALLIC, "lau_129_diff_roughmet", true};
 	
-	{"AAQ_28", DIFFUSE, "../AAQ28/Makos2AAQ_28_diff", false};
-	{"AAQ_28", ROUGHNESS_METALLIC, "../AAQ28/aaq_28_diff_roughmet", false};
-	{"AAQ_28", NORMAL_MAP, "../AAQ28/aaq_28_nm", true};	
-	{"AAQ_28_Glass", 0, "../AAQ28/aaq_28_glass", false};
-	{"AAQ_28_Glass", ROUGHNESS_METALLIC, "../AAQ28/aaq_28_glass_roughmet", false};
-	
 	{"FLOOR-01", 0, "f16c-cpt-floor-01", false};
 	
 	{"pilot_F16_patch", 0, "empty", true};
@@ -124,9 +118,9 @@ livery = {
 }
 
 
-name = "JTF-13 93rd FS - LtCol Ryan - Tiger"
+name = "JTF-13 93rd FS - 2Lt Alex - NORDO"
 --Skin By xCorvinuSx Oct/2019
---Edited By Bryan "Flash" April/2021
+--Edited By Bryan "Flash" Jan/2022
 
 custom_args = 
 {
